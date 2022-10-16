@@ -1,0 +1,3 @@
+Selenium geliştirme ortamı bilgisayara kuruldu.
+Test otomasyon demo uygulaması olarak ( https://semihsaydam.medium.com/selenium-webdriver-ile-basit-test-senaryosu-yaz%C4%B1m%C4%B1-a885e934acad ) linkteki test uygulaması adımları izlendi. n11.com sitesinde login olma ve anahtar sözcük arama testleri yapıldı.
+Maalesef kariyerimdeki ilk test uygulaması başarısız oldu. Ama en kısa sürede bu durum düzeltilecektir.
