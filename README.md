@@ -1,3 +1,2 @@
 # BIL-359-SeleniumTest
-İlk test uygulaması başarısız oldu..
-hatalar en kısa zamanda düzeltilecektir...
+
